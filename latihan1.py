@@ -1,0 +1,2 @@
+print("HELLO")
+print("SAYA SEDANG BELAJAR PHYTON")
